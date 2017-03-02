@@ -8,4 +8,4 @@
 4.  include/linux/sched.h : #define NR_TASKS 5  <br />  
 
 ## 2.3. Print your student id
-1.  Add printf("Hello 0216064!"); in main.c line 192  <br />  
+1.  Add printf("Hello XXXXXXX!"); in main.c line 192  <br />  
